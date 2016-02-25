@@ -1,0 +1,18 @@
+
+Github Tools (plus a few others)
+
+Travis CI - https://travis-ci.com/auth
+Breeze Project Mangement Tool - https://www.breeze.pm/
+Trello - https://trello.com/
+Gitlo (combines Trello and Github) - https://www.breeze.pm/
+Zube Project Management (for Github Issues) - https://zube.io/
+Overv Agile Project Management - https://overv.io/
+Zenhub Project Management (for Github Issues) - https://www.zenhub.io/
+Waffle Project Management - https://waffle.io/
+Atom Text Editor (one of my personal favorites) - https://atom.io/
+Heroku Cloud Application Platform - https://www.heroku.com/
+Cloud9 Web IDE - https://c9.io/
+HuBoard Project Mangement (for Github Issues) - https://huboard.com/
+Aha! Roadmap Software - http://www.aha.io/
+ReviewNinja Merge-Review Tool - https://www.review.ninja/
+ 
